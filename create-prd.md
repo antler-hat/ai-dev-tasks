@@ -47,7 +47,7 @@ Assume the primary reader of the PRD is a **junior developer**. Therefore, requi
 
 *   **Format:** Markdown (`.md`)
 *   **Location:** `/tasks/`
-*   **Filename:** `prd-[feature-name].md`
+*   **Filename:** `prd[sequence-number]-[feature-name].md` where sequence-number starts at 01 and ascends with each new PRD
 
 ## Final instructions
 
